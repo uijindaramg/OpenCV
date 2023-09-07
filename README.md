@@ -1,4 +1,3 @@
-# Tave11th OpenCV study
+# Tave11기 visionPhD팀에서 진행한 openCV study
 
-<img width="80%" src="https://image.yes24.com/goods/116755317/XL"/>
-
+교재: 컴퓨터 비전과 딥러닝
